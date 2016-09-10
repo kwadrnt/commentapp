@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-image: url(http://cdn.pcwallart.com/images/gradient-wallpaper-1.jpg);
+}
+
+h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+  font-size: 20px;
+}
+
+.btn {
+  font-size: 100%;
+  color: white;
+  background-color: black!important;
+  font-family: sans-serif;
+  font-weight: bolder;
+  border-radius: 10%;
+  border: 1px black!important;
+  margin-top: 2%;
+  background-color: white;
+  width: 20%;
+  height: 45px;
+}
